@@ -1,0 +1,11 @@
+
+    List of all end-points:
+    --to get all cars: http://127.0.0.1:8080/cars/all
+    --to get car by Id: http://127.0.0.1:8080/cars/{id}
+    --to get cars by make: http://127.0.0.1:8080/cars?make=...
+    --to login: http://127.0.0.1:8080/login
+    add Json body to the request
+    {
+    "username": "Mark",
+    "password": "1234"
+    }

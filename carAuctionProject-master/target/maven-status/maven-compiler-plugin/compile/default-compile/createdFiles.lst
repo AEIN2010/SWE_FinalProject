@@ -1,0 +1,5 @@
+com\example\caraucbackend\entities\Car.class
+com\example\caraucbackend\entities\CarStatus.class
+com\example\caraucbackend\entities\Bid.class
+com\example\caraucbackend\DTOs\GeneralResponseBody.class
+com\example\caraucbackend\entities\User.class
